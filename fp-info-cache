@@ -1,4 +1,4 @@
-19318546863697087
+19320185413367087
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83054,6 +83054,13 @@ QFP-44_10x10_Pitch0.8mm_Hand_solder
 0
 44
 44
+grapto-v3-schematic
+SW_Kailh_Choc_V1
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch
+0
+2
+2
 grapto-v3-schematic
 Switch_TL3315NF100Q
 

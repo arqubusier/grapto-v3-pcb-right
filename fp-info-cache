@@ -1,4 +1,4 @@
-19311996086491038
+19318546863697087
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83026,20 +83026,48 @@ varistor SIOV
 0
 2
 2
-grapto-v3-pcb-right
+grapto-v3-schematic
 Connector_GCT_USB4500
 
 
 0
 16
-15
-grapto-v3-pcb-right
+13
+grapto-v3-schematic
+Crystal_ECS-160-20-33-TR3
+
+
+0
+4
+4
+grapto-v3-schematic
 LED_D3.0mm
 LED, diameter 3.0mm, 2 pins
 LED diameter 3.0mm 2 pins
 0
 2
 2
+grapto-v3-schematic
+QFP-44_10x10_Pitch0.8mm_Hand_solder
+
+
+0
+44
+44
+grapto-v3-schematic
+Switch_TL3315NF100Q
+
+
+0
+4
+2
+grapto-v3-schematic
+TestPoint_S2761-46R
+
+
+0
+1
+1
 kaihl_choc
 SW_Hotswap_Kailh
 Kailh keyswitch Hotswap Socket, 
